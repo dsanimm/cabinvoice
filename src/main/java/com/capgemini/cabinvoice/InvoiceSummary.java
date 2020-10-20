@@ -1,6 +1,5 @@
 package com.capgemini.cabinvoice;
 
-
 import java.util.Objects;
 
 public class InvoiceSummary {
